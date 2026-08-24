@@ -11,7 +11,7 @@ dependencies {
     // Do NOT use other classes from fabric loader
     modImplementation "net.fabricmc:fabric-loader:${fabric_loader_version}"
 
-    implementation 'org.mariuszgromada.math:MathParser.org-mXparser:5.2.1'
+    implementation 'org.mariuszgromada.math:MathParser.org-mXparser:6.1.1'
 
     modApi "com.terraformersmc:modmenu:${mod_menu_version}"
 
